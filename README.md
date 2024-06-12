@@ -13,11 +13,8 @@
 
 **Input File Format**
 The input file should be a plain text file with each line containing an indicator and its type, separated by a comma. The script expects this format:
-md5_value,md5
-sha1_value,sha1
-sha256_value,sha256
-http://malicious.com,url
-maliciousdomain.com,domain
+<img width="146" alt="image" src="https://github.com/fialhafizh/yara_gen/assets/172367792/9a851f0f-8c95-406e-9e6f-13455999bd0e">
+
 
 Here’s an example content for indicators.txt:
 d41d8cd98f00b204e9800998ecf8427e,md5
