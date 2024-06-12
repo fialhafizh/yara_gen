@@ -13,6 +13,7 @@
 
 **Input File Format**
 The input file should be a plain text file with each line containing an indicator and its type, separated by a comma. The script expects this format:
+
 <img width="299" alt="image" src="https://github.com/fialhafizh/yara_gen/assets/172367792/eba1dcc8-dfb9-42b0-bf6f-34e5858eefae">
 
 
